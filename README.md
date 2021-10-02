@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GatoMakonha
-- 👀 I’m interested in Programming and Foreign Exchange
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#, Python, JS, Kotlin, HTML, CSS, React...
 <!---
 GatoMakonha/GatoMakonha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
