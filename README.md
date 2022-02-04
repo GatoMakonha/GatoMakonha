@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @gabtonete
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#, Python, JS, Kotlin, HTML, CSS, React...
-<!---
-GatoMakonha/GatoMakonha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Gabriel, nascido em 99 e como manda o et Bilu, em busca de conhecimento =D
+- 🌱 Atualmente focando em aprender Javascript em toda esfera da programação, seja Node.js no backend, e frameworks como React e Angular para o frontend e mobile 
+- 👀 Além disso, gosto muito de estudar outras linguagens como C#, Python, Kotlin, Perl, e podem me xingar, mas minha linguagem favorita é LUA
