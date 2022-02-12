@@ -10,7 +10,7 @@
 > Database
 - Azure SQL Server with EntityFramework core
 > Authentication
-> Auth by jsonwebtoken
+- Auth by jsonwebtoken
 
 # 🌟 React.js
 - Next.js with Typescript in backend
