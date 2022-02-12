@@ -1,5 +1,3 @@
-- 👋 Gabriel, nascido em 99 e como manda o et Bilu, em busca de conhecimento =D
-
 # 🌟 Node.js
 - API REST with MVC pattern, aprendendo integrações atualmente
 > Database
