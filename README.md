@@ -1,6 +1,14 @@
 - 👋 Gabriel, nascido em 99 e como manda o et Bilu, em busca de conhecimento =D
-- 🌟 Node.js \ .NET 5.0 \ Flask py
-- 🌟 React.js
-- 💾 MySQL \ MongoDB \ PostgreSQL \ AWS DynamoDB
+
+# 🌟 Node.js
+> Database
+- MongoDB with mongoose
+- MySQL / PostgreSQL with Sequelize
+> Authentication
+- Auth by jsonwebtoken
+- Express session
+
+# 🌟 React.js
+- Next.js
 - 👀 LUA scripts \ Next.js w/ Typescript \ Kotlin Springboot
 - 👀 AngularJS w/ Typescript \ VueJS \ EmberJS \ Flutter 
