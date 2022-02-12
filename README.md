@@ -1,5 +1,5 @@
 # 🌟 Node.js
-- API REST with MVC pattern, aprendendo integrações atualmente
+- API REST with MVC pattern, aprendendo integrações com db/frontend atualmente
 > Database
 - MongoDB with mongoose
 - MySQL / PostgreSQL with Sequelize
@@ -8,12 +8,17 @@
 - Express session
 # 🌟 .NET Core 5.0
 > Database
-- Azure SQL Server
-- 
+- Azure SQL Server with EntityFramework core
+> Authentication
+> Auth by jsonwebtoken
 
 # 🌟 React.js
 - Next.js with Typescript in backend
-- Integration with backend
 
-- 👀 LUA scripts \ Next.js w/ Typescript \ Kotlin Springboot
-- 👀 AngularJS w/ Typescript \ VueJS \ EmberJS \ Flutter 
+# 💻 Roadmap
+- More DB connections w/ .NET Core 5.0
+- Kotlin Springboot
+- AngularJS w/ Typescript
+- Flask Py
+- Flutter
+- More backend db connections and security best practices
