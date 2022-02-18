@@ -32,4 +32,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40px" height="40px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40px" height="40px"/>
 </div>
