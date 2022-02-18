@@ -1,16 +1,20 @@
+## 💻 Roadmap
 # 🌟 Node.js
-- API REST with MVC pattern, aprendendo integrações com db/frontend atualmente
-> Database
-- MongoDB with mongoose
-- MySQL / PostgreSQL with Sequelize
-> Authentication
-- Auth by jsonwebtoken
-- Express session
+> Frameworks
+- React.js
+- Next.js
 
-# 💻 Roadmap
-- More DB connections w/ .NET Core 5.0
-- Kotlin Springboot
-- Angular & React w/ Typescript
-- Flask Py
-- Flutter
-- More security best practices
+> Archictecture
+- Restful API
+- MVC
+- SOLID
+- Clean archictecture
+
+> Database
+- Sequelize
+- Mongoose
+- Prisma
+
+> Security
+- jsonwebtoken
+- Express sessions
