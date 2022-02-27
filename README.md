@@ -19,3 +19,12 @@
 <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="40px"/>
 </div>
+
+## Principais projetos
+
+### React.js
+
+<a href="https://github.com/gabtonete/frontend-task-reactjs">Template em react.js com integração a api node.js + mongodb</a>
+<br>
+<a href="https://github.com/gabtonete/frontend-template-reactjs">Template responsivo com react-bootstrap/SASS</a>
+
