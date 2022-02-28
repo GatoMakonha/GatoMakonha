@@ -24,7 +24,7 @@
 
 ### React.js
 
-<a href="https://github.com/gabtonete/frontend-task-reactjs">Template em react.js com integração a api node.js + mongodb</a>
+<a href="https://github.com/gabtonete/frontend-task-reactjs">Template em react.js com integração na api node.js + mongodb</a>
 <br>
 <a href="https://github.com/gabtonete/frontend-template-reactjs">Template responsivo com react-bootstrap/SASS</a>
 
