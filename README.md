@@ -32,7 +32,7 @@
 
 ## Principais projetos
 
-### React.js
+### React
 
 <a href="https://github.com/gabtonete/frontend-task-reactjs">Template em react.js com integração na api node.js + mongodb</a>
 <br>
