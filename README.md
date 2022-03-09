@@ -1,40 +1,12 @@
-## Fullstack skills <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" height="30px" />
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40px" height="40px"/>
-</div>
-
-## Conhecimentos secundários
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" height="40px"/>
-
-</div>
-
-## Database e tecnologias
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40px" height="40px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="40px"/>
-</div>
-
 ## Principais projetos
+
+### Typescript
+
+<a href="https://github.com/gabtonete/solid-typescript">APIs em Typescript com conceitos SOLID; Integração com sequelize, Jest/supertest tests envinroment, nodemailer com SMTP do Gmail</a>
+<a href="https://github.com/gabtonete/backend-devagram-next-ts">Backend em Typescript com Next.js integrado ao CosmicJS, mongoose e JWT</a>
 
 ### React
 
 <a href="https://github.com/gabtonete/frontend-task-reactjs">Template em react.js com integração na api node.js + mongodb</a>
 <br>
 <a href="https://github.com/gabtonete/frontend-template-reactjs">Template responsivo com react-bootstrap/SASS</a>
-
