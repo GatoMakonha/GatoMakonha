@@ -2,7 +2,7 @@
 
 ### typescript
 
-<a href="https://github.com/gabtonete/solid-typescript">- SOLID Typescript API; Sequelize SQLite integration, Jest/supertest tests envinroment, Gmail SMTP w/ nodemailer</a>
+<a href="https://github.com/gabtonete/solid-typescript">- SOLID Typescript API; Sequelize Postgres integration, Jest/supertest tests envinroment, Gmail SMTP w/ nodemailer</a>
 <br/>
 <a href="https://github.com/gabtonete/backend-devagram-next-ts">- Next.js backend w/ Typescript with CosmicJS, mongoose & JWT integrations</a>
 
