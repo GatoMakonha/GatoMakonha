@@ -1,6 +1,5 @@
 ## portfolio
-Linux & Windows user, learning fullstack development skills everyday
-Assembly & C student, computational engineering enthuasiast
+Linux & Windows user, learning fullstack development skills everyday | Assembly & C student, computational engineering enthuasiast
 
 ### typescript
 
