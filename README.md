@@ -4,6 +4,7 @@ Linux & Windows user, learning fullstack development skills everyday | Assembly 
 ### typescript
 
 [Backend]
+<br/>
 <a href="https://github.com/gabtonete/backend-task-node">- node.js RESTful API based in MVC architecture with jwt and mongoose integrations</a>
 <br/>
 <a href="https://github.com/gabtonete/solid-typescript">- SOLID typescript API; Sequelize Postgres integration, jest/supertest tests envinroment, gmail SMTP w/ nodemailer</a>
