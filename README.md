@@ -1,4 +1,5 @@
 ## portfolio
+Linux & Windows user, learning fullstack development skills everyday
 
 ### typescript
 
@@ -17,3 +18,8 @@
 <a href="https://github.com/gabtonete/frontend-template-reactjs">- Responsive template in React.js with react-bootstrap and SASS</a>
 <br/>
 <a href="https://github.com/gabtonete/frontend-newsletter-nextjs">- Next.js and CSS-Modules newsletter project using axios integrated to a SOLID Typescript API</a>
+<br/>
+
+### roadmap
+
+react native, angular, react ts, flutter
