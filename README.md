@@ -24,6 +24,6 @@ Linux & Windows user, learning fullstack development skills everyday | Assembly 
 
 ### roadmap
 
-firebase, redis, kubernetes
+firebase, redis, kubernetes, docker, docker compose
 <br/>
-react native, angular, react ts, flutter, redux
+react native, angular, react ts, flutter, redux, saga
