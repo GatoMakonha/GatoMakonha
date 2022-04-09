@@ -3,13 +3,18 @@ Linux user, learning fullstack development skills everyday |
 
 ### typescript
 
+### catgram
+<a href="https://github.com/gabtonete/frontend-devagram-nextjs">- next.js frontend integrated with axios</a>
+<a href="https://github.com/gabtonete/backend-devagram-next-ts">- next.js backend w/ Typescript</a>
+
+
 [Backend]
 <br/>
 <a href="https://github.com/gabtonete/backend-task-node">- node.js RESTful API based in MVC architecture with jwt and mongoose integrations</a>
 <br/>
 <a href="https://github.com/gabtonete/solid-typescript">- SOLID typescript API; Sequelize Postgres integration, jest/supertest tests envinroment, gmail SMTP w/ nodemailer</a>
 <br/>
-<a href="https://github.com/gabtonete/backend-devagram-next-ts">- next.js backend w/ Typescript with cosmicJS, mongoose & JWT integrations</a>
+
 
 ### react
 
