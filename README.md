@@ -1,7 +1,6 @@
 ## portfólio
 Linux user, learning fullstack development skills everyday |
 <hr/>
-<br>
 <div>
     <h3 style="color: #7733ff">Catgram
         <img width="15" alt="catgram icon" src="https://www.svgrepo.com/show/119563/cat.svg" />
