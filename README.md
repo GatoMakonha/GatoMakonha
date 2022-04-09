@@ -1,11 +1,9 @@
 ## portfolio
 Linux user, learning fullstack development skills everyday |
 
-### typescript
-
 ### catgram
-<a href="https://github.com/gabtonete/frontend-devagram-nextjs">- next.js frontend integrated with axios</a>
-<a href="https://github.com/gabtonete/backend-devagram-next-ts">- next.js backend w/ Typescript</a>
+<a href="https://github.com/gabtonete/frontend-devagram-nextjs">next.js frontend integrated with axios |</a>
+<a href="https://github.com/gabtonete/backend-devagram-next-ts"> next.js backend w/ Typescript</a>
 
 
 [Backend]
