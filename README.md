@@ -29,12 +29,13 @@ Linux user, learning fullstack development skills everyday |
 </div>
 <br/>
 <div>
-    <h3 style="color: #7733ff">Boilerplates
-    </h3>
+    <h4 style="color: #7733ff">Boilerplates
+    </h4>
     1. <a href="https://github.com/gabtonete/frontend-template-reactjs">Responsive template in react.js with react-bootstrap and SASS</a>
     
 </div>
 <br>
+
 ## roadmap
 
 firebase, redis, kubernetes, docker, docker compose
