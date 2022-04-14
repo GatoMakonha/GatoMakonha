@@ -36,8 +36,16 @@ Linux user, learning fullstack development skills everyday |
 </div>
 <br>
 
+## technologies
+
+expressjs, typescript, .NET FrameworkCore, Spring Boot, Flask, Django
+<br/>
+react, nextjs, react native, angular 12
+<br/>
+jsonwebtoken, sass, css-modules, axios
+
 ## roadmap
 
 firebase, redis, kubernetes, docker, docker compose
 <br/>
-react native, angular, react ts, flutter, redux, saga
+angular, react ts, flutter, redux, saga
