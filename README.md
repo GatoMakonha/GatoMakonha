@@ -32,7 +32,8 @@ Linux user, learning fullstack development skills everyday |
     <h4 style="color: #7733ff">Boilerplates
     </h4>
     1. <a href="https://github.com/gabtonete/frontend-template-reactjs">Responsive template in react.js with react-bootstrap and SASS</a>
-    
+    <br/>
+    2. <a href="https://github.com/gabtonete/frontend-onfood-next-ts">Next with typescript boilerplate to a frontend application using css-modules</a>   
 </div>
 <br>
 
