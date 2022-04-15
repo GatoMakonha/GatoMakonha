@@ -39,7 +39,7 @@ Linux user, learning fullstack development skills everyday |
 
 ## technologies
 
-expressjs, typescript, .NET FrameworkCore, Spring Boot, Flask, Django
+expressjs, typescript, .NET Framework, Spring Boot, Flask, Django
 <br/>
 react, nextjs, react native, angular 12
 <br/>
