@@ -41,7 +41,7 @@ Linux user, learning fullstack development skills everyday |
 
 nodejs, expressjs, typescript
 <br/>
-react, nextjs, react native, angular 12
+react, nextjs, react native
 <br/>
 jsonwebtoken, sass, css-modules, axios
 <br/>
@@ -51,4 +51,4 @@ jsonwebtoken, sass, css-modules, axios
 
 firebase, redis, kubernetes, docker, docker compose
 <br/>
-angular, flutter, redux, saga
+flutter, redux, saga
