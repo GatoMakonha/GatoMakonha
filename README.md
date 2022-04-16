@@ -41,7 +41,7 @@ Linux user, learning fullstack development skills everyday |
 
 nodejs, expressjs, typescript
 <br/>
-react, nextjs, react native
+react, nextjs, react native, angular
 <br/>
 jsonwebtoken, sass, css-modules, axios
 <br/>
