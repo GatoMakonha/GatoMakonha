@@ -51,4 +51,4 @@ jsonwebtoken, sass, css-modules, axios
 
 firebase, redis, kubernetes, docker, docker compose
 <br/>
-flutter, redux, saga
+vue.js, flutter, redux, saga
