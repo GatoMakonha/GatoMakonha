@@ -1,6 +1,5 @@
 ## portfólio
 
-<hr/>
 <a href="https://github.com/gabtonete/projeto-devagram">Projeto Devagram (Devaria 2022)</a>
 <br>
 <a href="https://github.com/gabtonete/projeto-taskmanager">Projeto Gerenciador de Tarefas (Devaria 2021)</a>
