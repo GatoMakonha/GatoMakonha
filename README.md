@@ -1,18 +1,9 @@
 ## portfólio
 
 <hr/>
-<div>
-    <h4 style="color: #7733ff">Catgram
-        <img width="15" alt="catgram icon" src="https://www.svgrepo.com/show/119563/cat.svg" />
-    </h4>
-    [Frontend] <a href="https://github.com/gabtonete/frontend-devagram-nextjs">- next.js frontend integrated with axios</a>
-    <br>
-    [Backend] <a href="https://github.com/gabtonete/backend-devagram-next-ts">- next.js backend w/ Typescript</a>
-    <br>
-    [Mobile] <a href="https://github.com/gabtonete/mobile-devagram-react-native">- catgram react native app </a>
-</div>
+<a href="https://github.com/gabtonete/projeto-devagram">Projeto Devagram (Devaria 2022)</a>
 <br>
-<a href="https://github.com/gabtonete/projeto-taskmanager">Projeto Gerenciador de Tarefas</a>
+<a href="https://github.com/gabtonete/projeto-taskmanager">Projeto Gerenciador de Tarefas (Devaria 2021)</a>
 <br/>
 <div>
     <h4 style="color: #7733ff">Newsletter
