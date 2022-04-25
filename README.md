@@ -1,5 +1,5 @@
 ## portfólio
-Linux user, learning fullstack development skills everyday |
+
 <hr/>
 <div>
     <h4 style="color: #7733ff">Catgram
@@ -12,13 +12,7 @@ Linux user, learning fullstack development skills everyday |
     [Mobile] <a href="https://github.com/gabtonete/mobile-devagram-react-native">- catgram react native app </a>
 </div>
 <br>
-<div>
-    <h4 style="color: #7733ff">Task Manager
-    </h4>
-    [Backend] <a href="https://github.com/gabtonete/backend-task-node">- node.js API REST with express using MVC architecture </a>
-    <br>
-    [Frontend] <a href="https://github.com/gabtonete/frontend-task-reactjs">- react.js template integrated with axios</a>
-</div>
+<a href="https://github.com/gabtonete/projeto-taskmanager">Projeto Gerenciador de Tarefas</a>
 <br/>
 <div>
     <h4 style="color: #7733ff">Newsletter
@@ -37,15 +31,13 @@ Linux user, learning fullstack development skills everyday |
 </div>
 <br>
 
-## technologies
+## tecnologias
 
 nodejs, expressjs, typescript
 <br/>
 react, nextjs, react native, angular
 <br/>
-jsonwebtoken, sass, css-modules, axios
-<br/>
-.NET Framework, Spring Boot, Flask
+jsonwebtoken, sass, css-modules
 
 ## roadmap
 
