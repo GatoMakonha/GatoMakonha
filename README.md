@@ -20,7 +20,7 @@
 
 nodejs, expressjs, typescript
 <br/>
-react, nextjs, react native, angular
+react, nextjs, react native
 <br/>
 jsonwebtoken, sass, css-modules
 
@@ -28,4 +28,4 @@ jsonwebtoken, sass, css-modules
 
 firebase, redis, kubernetes, docker, docker compose
 <br/>
-vue.js, flutter, redux
+angular,  vue.js, flutter, redux
