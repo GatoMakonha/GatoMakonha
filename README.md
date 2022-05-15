@@ -26,6 +26,6 @@ jsonwebtoken, sass, css-modules
 
 ## roadmap
 
-firebase, redis, kubernetes, docker, docker compose
+docker, docker compose
 <br/>
-angular,  vue.js, flutter, redux
+angular,  vue.js, redux
