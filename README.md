@@ -27,6 +27,7 @@ React, ASP.NET WebForms, React Native
 <br/>
 
 Conhecimentos com um pouco de devops e aprendendo CI/CD, docker, bancos de dados
+<br/>
 Jira, Azure Devops
 
 ## roadmap
