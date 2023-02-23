@@ -18,14 +18,17 @@
 
 ## tecnologias
 
-nodejs, expressjs, typescript
+Aplicando conceitos como clean code e SOLID nos sistemas em que trabalho,
+e possuo conhecimento em arquitetura Serverless
+
+Node.js, .NET Core, Kotlin Spring, Python
 <br/>
-react, nextjs, react native
+React, ASP.NET WebForms, React Native
 <br/>
-jsonwebtoken, sass, css-modules
+
+Conhecimentos com um pouco de devops e aprendendo CI/CD, docker, bancos de dados
+Jira, Azure Devops
 
 ## roadmap
 
-docker, docker compose
-<br/>
-angular,  vue.js, redux
+ASP.NET Core Blazor, Flutter
